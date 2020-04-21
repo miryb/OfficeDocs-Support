@@ -55,10 +55,10 @@ Contact numbers:
 
 ### How to update contact information
 
-1. Sign in to Outlook Web App.   
-2. Click **Settings**, and then click **Options**. 
-3. In the left navigation pane, click **Account**, and then click **Edit Information**.   
-4. Make the changes that you want, and then click **Save**.   
+1. Sign in to Outlook Web App (https://outlook.office365.com/owa).
+2. Click on "Account Manager for <your user>" on the right top corner, and then click My Account.
+3. This will redirect you to https://portal.office.com/account/.
+4. Click on Personal Info and make the changes you want. 
 
 > [!NOTE]
 > The offline address book (OAB) will not be updated for at least 24 hours.
